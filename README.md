@@ -1,8 +1,21 @@
-# React + Vite
+# Bistro-Boss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live site:
 
-Currently, two official plugins are available:
+- []()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Resources:
+
+- [React-Router-Dom](https://reactrouter.com/en/main)
+- [TailwindCSS](https://tailwindcss.com)
+- [Daisy-UI](https://daisyui.com/)
+- [Mamba-UI - Components](https://mambaui.com/components)
+- [React-Toast](https://www.npmjs.com/package/react-toastify)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+- [React-Spinners](https://mhnpd.github.io/react-loader-spinner/)
+- [React-Helmet-Async](https://www.npmjs.com/package/react-helmet-async/)
+- [Swiper-Slider](https://swiperjs.com/)
+- [Sweet-Alert2](https://sweetalert2.github.io/)
+- [React-Tooltip](https://react-tooltip.com/)
+- [React-Simple-Typewriter](https://www.npmjs.com/package/react-simple-typewriter/v/2.0.0)
+- [React-Awesome-Reveal](https://www.npmjs.com/package/react-awesome-reveal#features)
