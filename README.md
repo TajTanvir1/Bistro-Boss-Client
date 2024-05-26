@@ -19,3 +19,4 @@ Resources:
 - [React-Tooltip](https://react-tooltip.com/)
 - [React-Simple-Typewriter](https://www.npmjs.com/package/react-simple-typewriter/v/2.0.0)
 - [React-Awesome-Reveal](https://www.npmjs.com/package/react-awesome-reveal#features)
+- [React-Responsive-Carousel](https://www.npmjs.com/package/react-responsive-carousel)
